@@ -1,0 +1,5 @@
+Shevchenko 2 computer_science 4 5 5
+Petrenko 1 informatics 5 4 5
+Sydorenko 3 math_economics 5 5 5
+Ivanenko 4 physics_informatics 3 2 3
+Teslenko 1 handicraft 5 5 5
